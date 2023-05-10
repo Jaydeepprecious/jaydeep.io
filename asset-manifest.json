@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shrikantsirproject/static/css/main.f49d9a09.css",
+    "main.js": "/Shrikantsirproject/static/js/main.7bdfb3bb.js",
+    "static/js/787.be73f74f.chunk.js": "/Shrikantsirproject/static/js/787.be73f74f.chunk.js",
+    "index.html": "/Shrikantsirproject/index.html",
+    "main.f49d9a09.css.map": "/Shrikantsirproject/static/css/main.f49d9a09.css.map",
+    "main.7bdfb3bb.js.map": "/Shrikantsirproject/static/js/main.7bdfb3bb.js.map",
+    "787.be73f74f.chunk.js.map": "/Shrikantsirproject/static/js/787.be73f74f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49d9a09.css",
+    "static/js/main.7bdfb3bb.js"
+  ]
+}
